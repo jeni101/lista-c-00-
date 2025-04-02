@@ -1,0 +1,15 @@
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/bin/Debug/net9.0/Somatorio
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/bin/Debug/net9.0/Somatorio.deps.json
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.AssemblyInfoInputs.cache
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.AssemblyInfo.cs
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.csproj.CoreCompileInputs.cache
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.dll
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/refint/Somatorio.dll
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.pdb
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.genruntimeconfig.cache
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/bin/Debug/net9.0/Somatorio.runtimeconfig.json
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/bin/Debug/net9.0/Somatorio.dll
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/bin/Debug/net9.0/Somatorio.pdb
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/ref/Somatorio.dll
+/Users/jenifercandidogomes/Desktop/lista 00/Somatorio/obj/Debug/net9.0/Somatorio.sourcelink.json
